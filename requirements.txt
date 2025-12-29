@@ -1,0 +1,13 @@
+# ASDF X Post Generator - Discord Bot
+# Dependencies
+
+# Discord
+discord.py>=2.3.0
+
+# Environment variables
+python-dotenv>=1.0.0
+
+# Optional: For future features
+# aiohttp>=3.9.0        # For API calls
+# aiosqlite>=0.19.0     # For database storage
+# schedule>=1.2.0       # For advanced scheduling
