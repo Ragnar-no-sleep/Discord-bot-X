@@ -6,7 +6,7 @@ Easily modifiable to adapt to changing needs.
 """
 
 from dataclasses import dataclass, field
-from typing import List, Dict, Optional
+from typing import List, Optional
 from enum import Enum
 import random
 

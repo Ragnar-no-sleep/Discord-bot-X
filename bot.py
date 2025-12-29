@@ -22,12 +22,11 @@ from discord.ext import commands, tasks
 from dotenv import load_dotenv
 from datetime import datetime, time
 import asyncio
-from typing import Optional, List
-import json
+from typing import List
 
-from generator import PostGenerator, quick_raid, quick_thread, quick_cult, quick_fud_response
+from generator import PostGenerator
 from config import (
-    PRODUCTS, PostType, DayOfWeek, WEEKLY_SCHEDULE,
+    PRODUCTS, DayOfWeek, WEEKLY_SCHEDULE,
     THREAD_TEMPLATES, FUD_RESPONSES, REPLY_TEMPLATES,
     RAID_TEMPLATES
 )

@@ -39,7 +39,7 @@ jobs:
 
       - name: Lint with Ruff
         run: |
-          ruff check . --ignore=E501,F401
+          ruff check . --ignore=E501
 
       - name: Check syntax
         run: |

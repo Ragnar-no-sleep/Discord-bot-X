@@ -1,6 +1,5 @@
 """Tests for the post generator module."""
 
-import pytest
 from generator import PostGenerator, quick_raid, quick_thread, quick_cult, quick_fud_response
 
 
