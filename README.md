@@ -1,5 +1,12 @@
 # ASDF X Post Generator - Discord Bot
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![Python](https://img.shields.io/badge/Python-3.11+-blue.svg)](https://www.python.org/downloads/)
+[![discord.py](https://img.shields.io/badge/discord.py-2.4.0-blue.svg)](https://discordpy.readthedocs.io/)
+[![Railway](https://img.shields.io/badge/Deploy-Railway-blueviolet.svg)](https://railway.app)
+[![GitHub last commit](https://img.shields.io/github/last-commit/Ragnar-no-sleep/Discord-bot-X)](https://github.com/Ragnar-no-sleep/Discord-bot-X/commits/main)
+[![GitHub issues](https://img.shields.io/github/issues/Ragnar-no-sleep/Discord-bot-X)](https://github.com/Ragnar-no-sleep/Discord-bot-X/issues)
+
 Discord bot to generate X (Twitter) posts for the ASDF ecosystem.
 
 ## Features
