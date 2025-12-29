@@ -120,7 +120,7 @@ async def on_ready():
     # Start scheduled tasks if channel is configured (only if not already running)
     if OUTPUT_CHANNEL_ID and not daily_post_reminder.is_running():
         daily_post_reminder.start()
-        print(f'⏰ Scheduled tasks started')
+        print('⏰ Scheduled tasks started')
 
 # =============================================================================
 # SLASH COMMANDS
